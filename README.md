@@ -1,4 +1,7 @@
-## 한비
+## 조성민
+
+# Exp
+(2025.03) 한양대학교 ERICA캠퍼스 컴퓨터학부 재학
 
 <!--
 **hanbi06/hanbi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
