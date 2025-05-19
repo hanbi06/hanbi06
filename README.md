@@ -3,6 +3,8 @@
 # Exp
 (2025.03) 한양대학교 ERICA캠퍼스 컴퓨터학부 재학
 
+# Contest
+2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC - Moss Division 동상
 <!--
 **hanbi06/hanbi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
